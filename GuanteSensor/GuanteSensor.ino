@@ -1,5 +1,5 @@
 /*
-  Control de un acelerómeto por DMP y sensado de flexión con envío por radiofrecuencia
+  Control de un acelerómeto por DMP y sensado de flexión con envío por radiofrecuencia. Programado sobre Teensy 3.6
   Autor: Javier Vargas. El Hormiguero.
   Diseño 3D de grossrc bajo licencia Creative Commons - Attribution - Non-Commercial (https://www.thingiverse.com/thing:2269115)
   https://creativecommons.org/licenses/by-nc/3.0/
